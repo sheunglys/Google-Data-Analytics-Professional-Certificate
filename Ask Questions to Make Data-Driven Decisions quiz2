@@ -16,3 +16,23 @@ A data analyst calculates the return on investment by comparing the net profit o
 Fill in the blank: A data analyst is using data to address a large-scale problem. This type of analysis would most likely require _____. Select all that apply.
 ＝＞　big data
 ＝＞　data that reflects change over time
+
+In data analytics, reports use live, incoming data from multiple datasets; dashboards use static collections of data.
+=> False
+
+A pivot table is a data-summarization tool used in data processing. Which of the following tasks can pivot tables perform? Select all that apply.
+=> Group data
+=> Reorganized data
+=> Calculate totals from data
+
+A metric is a single, quantifiable type of data that can be used for what task?
+=> Setting and evaluating goals
+
+A car dealership has the goal of increasing the number of cars sold each month. They use the number of cars currently sold by each salesperson per month as a baseline. What type of goal is this?
+=> Metric goal
+
+Fill in the blank: Return on investment compares the _____ of an investment to the net profit gained from that investment. 
+=> Cost
+
+A data analyst is using data from a short time period to solve a problem related to someone’s day-to-day decisions. They are most likely working with small data.
+=> True
