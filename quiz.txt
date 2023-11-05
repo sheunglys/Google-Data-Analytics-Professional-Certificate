@@ -1,0 +1,18 @@
+In data analytics, a pattern is defined as a process or set of rules to be followed for a specific task.
+=>　Ｆａｌｓｅ
+
+Which of the following are examples of qualitative data? Select all that apply.
+＝＞　A student’s comments about a professor on a course evaluation website
+＝＞　A restaurant’s review by a professional restaurant critic 
+
+Which data-summarization tool do data analysts use to sort, reorganize, group, count, total, or average data?
+＝＞　A pivot table
+
+A data analyst calculates the return on investment by comparing the net profit of an investment and its cost. What is the purpose of such a calculation? Select all that apply.
+＝＞　It can gauge how well an investment is doing.
+＝＞　It can help prioritize multiple investments.
+＝＞　It can measure progress toward a specific goal.
+
+Fill in the blank: A data analyst is using data to address a large-scale problem. This type of analysis would most likely require _____. Select all that apply.
+＝＞　big data
+＝＞　data that reflects change over time
